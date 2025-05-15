@@ -12,5 +12,5 @@ c) Sistemas de Gestão Empresarial - SGE
 Bruno Silva (bsc2@cin.ufpe.br)\
 Guilherme Vinicius (gvcc@cin.ufpe.br)\
 Jéssica Oliveira (jrmo@cin.ufpe.br)\
-Lucas Gabriel (lgrn@cin.ufpe.br)
+Lucas Gabriel (lgrn@cin.ufpe.br)\
 Pedro Henrique (phbc@cin.ufpe.br)
